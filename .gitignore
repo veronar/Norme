@@ -1,4 +1,7 @@
-# Prerequisites
+#macoc bullshit
+.DS_store
+
+#Prerequisites
 *.d
 
 # Object files
