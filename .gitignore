@@ -1,5 +1,6 @@
 #macoc bullshit
 .DS_store
+._*
 
 #Prerequisites
 *.d
